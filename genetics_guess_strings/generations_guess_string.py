@@ -5,9 +5,9 @@ import datetime
 # GeneSet für alle möglichen Zeichen
 geneSet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!. "
 # Ziel-Wort
-target = "Hello World!"
+target = "Robert ist ein kuehler Typ!"
 
-# Anfangsstring wird hier zufällig generiert
+# Anfangsstring wird hier zufällig generiert 
 def generate_parent(length):
     # Array mit Wort
     genes = []
